@@ -1,3 +1,4 @@
+
 # Campus Favorites
 
 A small React app to browse students and add/remove favourites.
@@ -19,3 +20,5 @@ Run `npm run build`. The production-ready site is generated in the `dist` folder
 5. Click **Deploy**. Vercel will give you a live website URL and automatically redeploy after future GitHub pushes.
 
 The included `vercel.json` handles page routes so links work after deployment.
+
+# favourite--student-list
